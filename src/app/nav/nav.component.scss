@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background: var(--secondcolor);
+    padding: 16px;
+}
+
+.navbar div{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.h1{
+    font-size: 1.6em;
+}
